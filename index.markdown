@@ -7,17 +7,7 @@ layout: default
 ---
 
 
-## InsectACIDE: Debugger-Based Holistic Asynchronous CFI for Embedded System
-
-  
-
-InsectACIDE is the first kernel-level CFI for embedded and real-time systems that does not require binary instrumentation and is real-time friendly.
-The results of this project were published in the paper entitled "[InsectACIDE: Debugger-Based Holistic Asynchronous CFI for Embedded System]" in the IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2024. If you want to cite our paper in your work, please use the following BibTeX entry.
-
-
----
-
 ### Source Code
 
-The source code of InsectACIDE has been moved to this [repo](https://github.com/InsectACIDE/insectACIDE).
+The source code of the paper, ``[InsectACIDE: Debugger-Based Holistic Asynchronous CFI for Embedded System](https://insectacide.github.io/)'' in the IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2024, has been moved to this [repo](https://github.com/InsectACIDE/insectACIDE).
 
